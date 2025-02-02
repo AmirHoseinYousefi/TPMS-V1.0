@@ -1,0 +1,159 @@
+Added Component: Designator=ANT1(PRO-OB-440)
+Added Component: Designator=Battery1(CR1220_B)
+Added Component: Designator=C1(C 0603)
+Add component (AddParameter): Name = "BOM??"; Value = "???????"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "????"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "????"; Value = "???"; VariantName = "[No Variations]"
+Added Component: Designator=C2(C 0603)
+Add component (AddParameter): Name = "BOM??"; Value = "???????"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "????"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "????"; Value = "???"; VariantName = "[No Variations]"
+Added Component: Designator=C3(C 0603)
+Add component (AddParameter): Name = "BOM??"; Value = "???????"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "????"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "????"; Value = "???"; VariantName = "[No Variations]"
+Added Component: Designator=C4(C 0603)
+Add component (AddParameter): Name = "BOM??"; Value = "???????"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "????"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "????"; Value = "???"; VariantName = "[No Variations]"
+Added Component: Designator=C5(C 0603)
+Add component (AddParameter): Name = "BOM??"; Value = "???????"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "????"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "????"; Value = "???"; VariantName = "[No Variations]"
+Added Component: Designator=C6(C 0603)
+Add component (AddParameter): Name = "BOM??"; Value = "???????"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "????"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "????"; Value = "???"; VariantName = "[No Variations]"
+Added Component: Designator=C7(C 0603)
+Add component (AddParameter): Name = "BOM??"; Value = "???????"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "????"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "????"; Value = "???"; VariantName = "[No Variations]"
+Added Component: Designator=C8(C 0603)
+Add component (AddParameter): Name = "BOM??"; Value = "???????"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "????"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "????"; Value = "???"; VariantName = "[No Variations]"
+Added Component: Designator=C9(C 0603)
+Add component (AddParameter): Name = "BOM??"; Value = "???????"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "????"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "????"; Value = "???"; VariantName = "[No Variations]"
+Added Component: Designator=C10(C 0603)
+Add component (AddParameter): Name = "BOM??"; Value = "???????"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "????"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "????"; Value = "???"; VariantName = "[No Variations]"
+Added Component: Designator=L1(L 0603)
+Add component (AddParameter): Name = "BOM??"; Value = "???????"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "????"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "????"; Value = "???"; VariantName = "[No Variations]"
+Added Component: Designator=L2(L 0603)
+Add component (AddParameter): Name = "BOM??"; Value = "???????"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "????"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "????"; Value = "???"; VariantName = "[No Variations]"
+Added Component: Designator=L3(L 0603)
+Add component (AddParameter): Name = "BOM??"; Value = "???????"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "????"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "????"; Value = "???"; VariantName = "[No Variations]"
+Added Component: Designator=R1(R 0603)
+Add component (AddParameter): Name = "BOM??"; Value = "Chip resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "????"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "????"; Value = "???"; VariantName = "[No Variations]"
+Added Component: Designator=R2(R 0603)
+Add component (AddParameter): Name = "BOM??"; Value = "Chip resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "????"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "????"; Value = "???"; VariantName = "[No Variations]"
+Added Component: Designator=R3(R 0603)
+Add component (AddParameter): Name = "BOM??"; Value = "Chip resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "????"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "????"; Value = "???"; VariantName = "[No Variations]"
+Added Component: Designator=R4(R 0603)
+Add component (AddParameter): Name = "BOM??"; Value = "Chip resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "????"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "????"; Value = "???"; VariantName = "[No Variations]"
+Added Component: Designator=R5(R 0603)
+Add component (AddParameter): Name = "BOM??"; Value = "Chip resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "????"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "????"; Value = "???"; VariantName = "[No Variations]"
+Added Component: Designator=U1(QFN24)
+Added Component: Designator=X1(XTAL-2520-4)
+Add component (AddParameter): Name = "BOM??"; Value = "4???"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "????"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "????"; Value = "???"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=BDM Pin=R2-2
+Added Pin To Net: NetName=BDM Pin=U1-7
+Added Net: Name=BDM
+Added Pin To Net: NetName=GND Pin=ANT1-1
+Added Pin To Net: NetName=GND Pin=Battery1-2
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=GND Pin=R5-2
+Added Pin To Net: NetName=GND Pin=U1-10
+Added Pin To Net: NetName=GND Pin=U1-17
+Added Net: Name=GND
+Added Pin To Net: NetName=NetANT1_2 Pin=ANT1-2
+Added Pin To Net: NetName=NetANT1_2 Pin=C7-2
+Added Pin To Net: NetName=NetANT1_2 Pin=L2-2
+Added Net: Name=NetANT1_2
+Added Pin To Net: NetName=NetC4_2 Pin=C4-2
+Added Pin To Net: NetName=NetC4_2 Pin=U1-12
+Added Net: Name=NetC4_2
+Added Pin To Net: NetName=NetC6_2 Pin=C6-2
+Added Pin To Net: NetName=NetC6_2 Pin=L1-1
+Added Pin To Net: NetName=NetC6_2 Pin=L2-1
+Added Pin To Net: NetName=NetC6_2 Pin=U1-18
+Added Net: Name=NetC6_2
+Added Pin To Net: NetName=NetC8_1 Pin=C8-1
+Added Pin To Net: NetName=NetC8_1 Pin=L3-1
+Added Pin To Net: NetName=NetC8_1 Pin=R3-1
+Added Pin To Net: NetName=NetC8_1 Pin=U1-23
+Added Net: Name=NetC8_1
+Added Pin To Net: NetName=NetC8_2 Pin=C8-2
+Added Pin To Net: NetName=NetC8_2 Pin=L3-2
+Added Pin To Net: NetName=NetC8_2 Pin=R3-2
+Added Pin To Net: NetName=NetC8_2 Pin=U1-24
+Added Net: Name=NetC8_2
+Added Pin To Net: NetName=NetC9_2 Pin=C9-2
+Added Pin To Net: NetName=NetC9_2 Pin=U1-21
+Added Pin To Net: NetName=NetC9_2 Pin=X1-1
+Added Net: Name=NetC9_2
+Added Pin To Net: NetName=NetC10_2 Pin=C10-2
+Added Pin To Net: NetName=NetC10_2 Pin=U1-20
+Added Pin To Net: NetName=NetC10_2 Pin=X1-3
+Added Net: Name=NetC10_2
+Added Pin To Net: NetName=PTA0 Pin=R4-2
+Added Pin To Net: NetName=PTA0 Pin=U1-19
+Added Net: Name=PTA0
+Added Pin To Net: NetName=PTA1 Pin=U1-16
+Added Net: Name=PTA1
+Added Pin To Net: NetName=PTA2 Pin=U1-15
+Added Net: Name=PTA2
+Added Pin To Net: NetName=PTA3 Pin=U1-14
+Added Net: Name=PTA3
+Added Pin To Net: NetName=PTB0 Pin=R5-1
+Added Pin To Net: NetName=PTB0 Pin=U1-13
+Added Net: Name=PTB0
+Added Pin To Net: NetName=PTB1 Pin=U1-22
+Added Net: Name=PTB1
+Added Pin To Net: NetName=RST Pin=C5-2
+Added Pin To Net: NetName=RST Pin=R1-2
+Added Pin To Net: NetName=RST Pin=U1-8
+Added Net: Name=RST
+Added Pin To Net: NetName=VDD Pin=Battery1-1
+Added Pin To Net: NetName=VDD Pin=C1-2
+Added Pin To Net: NetName=VDD Pin=C2-2
+Added Pin To Net: NetName=VDD Pin=C3-2
+Added Pin To Net: NetName=VDD Pin=L1-2
+Added Pin To Net: NetName=VDD Pin=R1-1
+Added Pin To Net: NetName=VDD Pin=R2-1
+Added Pin To Net: NetName=VDD Pin=R4-1
+Added Pin To Net: NetName=VDD Pin=U1-9
+Added Pin To Net: NetName=VDD Pin=U1-11
+Added Net: Name=VDD
+Added Class: Name=Main
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1
